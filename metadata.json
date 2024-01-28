@@ -1,4 +1,6 @@
 {
   "name": "SwiftieNode",
-  "description": "Taylor Swift Fan",
+  "website": "127.0.0.1:8080",
+  "description": "A Self-funded Node",
+  "twitter": "@MoleculeMeme"
 }
